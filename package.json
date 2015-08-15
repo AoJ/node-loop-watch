@@ -1,0 +1,23 @@
+{
+  "name": "nodelo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "description": "Node loop watch",
+  "author": {
+    "name": "AoJ",
+    "email": "aoj@n13.cz"
+  },
+  "homepage": "http://github.com/aoj/node-loop-watch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aoj/node-loop-watch.git"
+  },
+  "dependencies": {
+    "bindings": "*",
+    "nan": "^1.4.0"
+  },
+  "devDependencies": {}
+}
